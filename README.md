@@ -1,4 +1,5 @@
-## BOAS VINDAS AO MEU PERFIL
+## Boas vindas ao meu perfil 💙💙
+
 meu nome é ANA CAROLINA RONCHI CAMPOS
 estou estudando na alura
 estou me desenvolvendo na línguagem JavaScript
